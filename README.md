@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, Eu sou Edwin Samuel Alves Santana</h1>
+<h1 align="center">Oi 👋, Eu sou Edwin Samuel</h1>
 <h3 align="center">Atualmente estudando para me tornar um desenvolvedor fullstack!</h3>
 
 - Atualmente trabalhando no projeto **ReservaSENAI**
